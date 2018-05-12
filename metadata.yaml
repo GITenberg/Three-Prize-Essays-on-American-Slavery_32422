@@ -1,0 +1,44 @@
+_repo: Three-Prize-Essays-on-American-Slavery_32422
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Thurston, R. B. (Richard Bowers)
+    alias: Thurston, Richard Bowers
+    birthdate: 1819
+    deathdate: 1895
+    gutenberg_agent_id: '35840'
+    url: http://www.gutenberg.org/2009/agents/35840
+  - agent_name: Williston, Timothy
+    alias: Williston, T. (Timothy)
+    deathdate: 1893
+    gutenberg_agent_id: '35842'
+    url: http://www.gutenberg.org/2009/agents/35842
+  - agent_name: Baldwin, A. C. (Abraham Chittenden)
+    aliases:
+    - Baldwin, Abraham C. (Abraham Chittenden)
+    - Baldwin, Abraham Chittenden
+    birthdate: 1804
+    deathdate: 1887
+    gutenberg_agent_id: '35841'
+    url: http://www.gutenberg.org/2009/agents/35841
+description: ''
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery and the church -- United States'
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+tableOfContents: The error and the duty in regard to slavery, by R. B. Thurston --
+  Friendly letters to a Christian slaveholder, by A. C. Baldwin -- Is American slavery
+  an institution which Christianity sanctions, and will perpetuate? By T. Williston.
+title: Three Prize Essays on American Slavery
+url: http://www.gutenberg.org/ebooks/32422
